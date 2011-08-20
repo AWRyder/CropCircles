@@ -1,0 +1,6 @@
+c:\users\awkens\documents\visual studio 2010\Projects\CropCircles\CropCircles\bin\Debug\CropCircles.dll
+c:\users\awkens\documents\visual studio 2010\Projects\CropCircles\CropCircles\bin\Debug\CropCircles.pdb
+c:\users\awkens\documents\visual studio 2010\Projects\CropCircles\CropCircles\bin\Debug\Terraria_Server (3).exe
+c:\users\awkens\documents\visual studio 2010\Projects\CropCircles\CropCircles\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\awkens\documents\visual studio 2010\Projects\CropCircles\CropCircles\obj\x86\Debug\CropCircles.dll
+c:\users\awkens\documents\visual studio 2010\Projects\CropCircles\CropCircles\obj\x86\Debug\CropCircles.pdb
